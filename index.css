@@ -1,0 +1,37 @@
+nav{
+    background-color: rgb(180, 42, 42);
+    padding: 25px;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    margin-left: 120px;
+}
+
+a:hover{
+    text-decoration: none;
+    color:white;
+    background-color: blueviolet;
+    border: 25px solid blueviolet;
+    }
+
+.first{
+background-color:rgb(109, 106, 106);
+text-align: center;
+height: 40vh;
+width: 100%;
+}
+#down{
+
+    color:rgb(245, 17, 17);
+}
+#up{
+    padding-top: 52px;
+    color: #f1f1f1;
+}
+#middle{
+
+    color: #f1f1f1;
+}
